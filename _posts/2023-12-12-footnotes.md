@@ -1,7 +1,7 @@
 ---
-title: Using Footnotes
-author: Tao He
-date: 2023-12-12
+title: 수연 테스트
+author: 수연
+date: 2025-07-09
 category: Jekyll
 layout: post
 mermaid: true
