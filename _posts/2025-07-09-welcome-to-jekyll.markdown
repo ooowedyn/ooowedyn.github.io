@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to 수연블로그"
 date:   2025-07-09 14:12:17 +0900
 categories: jekyll update
 ---
